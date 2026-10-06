@@ -5,8 +5,8 @@
 - Profissão antes do apocalipse: gestor de projetos
 - Habilidade: liderança e estratégia
 - Companheiros: Zorro (ゾロ, cachorro) e Toriina (トリーナ, drone)
-- Nível: 1 | HP: 10/10 | XP: 0
-- Inventário: (vazio)
+- Nível: 2 | HP: 12/12 | XP: 2/15
+- Inventário: すいとう (suitō, garrafa de água, vazia)
 
 ## Preferências de jogo
 - Escrita: hiragana OK. Katakana: o jogador NÃO sabe (aprender 1% por vez). Sempre dar romaji ao lado de katakana e usar pouco. Kanji só 1 por sessão.
@@ -49,10 +49,16 @@
 - Cuidar do do/dō e das vogais longas
 
 ## Diário da história
-(Nenhuma sessão ainda.)
+### Sessão 1 — Cena 1: 地下鉄の駅 (estação de metrô)
+- Patrick, Zorro e Toriina acharam um robô ferido que esperava um amigo que nunca veio.
+- O robô não bebe água: usa para esfriar o corpo (ひやします). Zorro confia nele.
+- O amigo do robô desceu ao subsolo (ちか). Há uma luz (あかり) lá embaixo.
+- Estado: Zorro parou na frente da escada. Falta decidir: descer juntos ao subsolo (Cena 2).
 
 ## Kanji aprendidos
-(nenhum ainda)
+水 (みず, água) · 私 (わたし, eu) · 鳥 (とり, pássaro) · 何 (なに, o quê)
 
 ## Palavras novas aprendidas (+1% por conversa)
-(vazio)
+- Sessão 1: ひやします (esfriar), こわれて います (quebrado), ケガ (ferimento), たすけて (socorro), てき (inimigo), しんじて ください, きませんでした (passado negativo), ひとり (sozinho), いっしょに (juntos), ちか (subsolo), かいだん (escada), あかり (luz), とまりました (parou), ほしい (querer algo), うごけません (não consegue se mover)
+- Forma て: くる→きて, いく→いって, いる→いて
+- Partículas reforçadas: で (lugar da ação, meio), に (destino, receptor), を (objeto), か (se)
