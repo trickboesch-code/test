@@ -8,7 +8,9 @@
 - Inventário: (vazio)
 
 ## Preferências de jogo
-- Escrita: romaji (o jogador estuda só a fala, sem kanji por enquanto)
+- Escrita: só kana (hiragana + katakana), ZERO kanji. Romaji entre parênteses como apoio.
+- O jogador conhece ~60% do corpus. Os outros ~40% da lista são material de estudo, ainda não dominado.
+- A lista pode conter frases com erros: eu uso a versão correta e aviso quando corrigir.
 - Narração em japonês simples + explicações em português
 - Correção: leve, com a versão natural da frase
 
