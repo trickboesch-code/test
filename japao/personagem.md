@@ -1,9 +1,10 @@
 # Ficha do Jogador — RPG Pós-Apocalipse de IA (em japonês)
 
 ## Personagem
-- Nome: (a definir)
-- Profissão antes do apocalipse: (a definir)
-- Habilidade / traço: (a definir)
+- Nome: Patrick Hanzo (パトリック・ハンゾウ)
+- Profissão antes do apocalipse: gestor de projetos
+- Habilidade: liderança e estratégia
+- Companheiros: Zorro (ゾロ, cachorro) e Toriina (トリーナ, drone)
 - Nível: 1 | HP: 10/10 | XP: 0
 - Inventário: (vazio)
 
@@ -11,6 +12,8 @@
 - Escrita: só kana (hiragana + katakana), ZERO kanji. Romaji entre parênteses como apoio.
 - O jogador conhece ~60% do corpus. Os outros ~40% da lista são material de estudo, ainda não dominado.
 - A lista pode conter frases com erros: eu uso a versão correta e aviso quando corrigir.
+- Dificuldade: média (kana + romaji; tradução só quando pedir)
+- Kanji: 1% por dia. Introduzir 1 kanji novo por sessão, com furigana, e registrar abaixo
 - Narração em japonês simples + explicações em português
 - Correção: leve, com a versão natural da frase
 
@@ -47,6 +50,9 @@
 
 ## Diário da história
 (Nenhuma sessão ainda.)
+
+## Kanji aprendidos
+(nenhum ainda)
 
 ## Palavras novas aprendidas (+1% por conversa)
 (vazio)
