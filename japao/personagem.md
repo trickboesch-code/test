@@ -9,7 +9,7 @@
 - Inventário: (vazio)
 
 ## Preferências de jogo
-- Escrita: só kana (hiragana + katakana), ZERO kanji. Romaji entre parênteses como apoio.
+- Escrita: hiragana OK. Katakana: o jogador NÃO sabe (aprender 1% por vez). Sempre dar romaji ao lado de katakana e usar pouco. Kanji só 1 por sessão.
 - O jogador conhece ~60% do corpus. Os outros ~40% da lista são material de estudo, ainda não dominado.
 - A lista pode conter frases com erros: eu uso a versão correta e aviso quando corrigir.
 - Dificuldade: média (kana + romaji; tradução só quando pedir)
